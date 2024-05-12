@@ -85,3 +85,14 @@ We also have the `f strings` another method of formatting strings basically.
 ```python
 print(f"Hello, World")
 ```
+
+## Liscence
+
+This is licenced under ____. 
+
+## Acknowledgement
+
+To:
+- one
+- two
+- three
