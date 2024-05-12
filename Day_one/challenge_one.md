@@ -39,42 +39,49 @@ We have two variables,
  and 
 `age`
 , which hold the values 
-"John"
+`"John"`
  and 
-30
+`30`
 , respectively.
 
 The 
-print
+`print`
  function is called with the string argument 
-"My name is {} and I am {} years old."
+`"My name is {} and I am {} years old."`
 . The curly braces 
-{}
+`{}`
  act as placeholders, which will be replaced by the values provided inside the 
-format
+`format`
  method.
 
 The 
-format
+`format`
  method is used to substitute the values of the variables 
-name
+`name`
  and 
-age
+`age`
  into the string. The first 
-{}
+`{}`
  is replaced with the value of 
-name
+`name`
 , and the second 
-{}
+`{}`
  is replaced with the value of 
-age
+`age`
 .
 
 When you run this code, the output will be: 
-My name is John and I am 30 years old.
+`My name is John and I am 30 years old.`
 , which will be displayed on a new line in the console.
 
 
 Formatting strings allows you to create dynamic output by replacing placeholders with values, making your code more flexible and reusable. The 
-print
+`print`
  function, along with string formatting, is a powerful tool for displaying information in Python.
+
+NOTE:
+We also have the `f strings` another method of formatting strings basically. 
+
+```python
+print(f"Hello, World")
+```
