@@ -11,7 +11,7 @@ This project demonstrates the basic arithmetic operations in Python:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Python IDE or text editor.
-3. Run the script using Python (e.g., `python (link unavailable)`).
+3. Create a script file using Python.
 
 **Usage**
 
