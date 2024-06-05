@@ -1,0 +1,23 @@
+# Prompt user for a whole number
+whole_number = input("Enter a whole number: ")
+
+# Convert the input into an integer and store it in the variable 'whole_number'
+whole_number = int(whole_number)
+
+# Print the value of 'whole_number'
+print("{}".format(whole_number))
+
+# Prompt user for a decimal number
+decimal_number = input("Enter a decimal number: ")
+
+# Convert the input into a float and store it in the variable 'decimal_number'
+decimal_number = float(decimal_number)
+
+# Print the value of 'decimal_number'
+print("{}".format(decimal_number))
+
+# Prompt user for any text
+string_value = input("Enter any text: ")
+
+# Print the value of 'string_value'
+print("{}".format(string_value))
