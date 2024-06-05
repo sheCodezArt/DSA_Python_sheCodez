@@ -42,7 +42,7 @@ This project is licensed under the MIT License.
 
 __Author__
 
-[Your Name]
+PYMATHPRO
 
 __Acknowledgments__
 
