@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def rec_area(l, w):
-  return l*r
+  return l*w
 
 rec_len = 10
 rec_wid = 5
